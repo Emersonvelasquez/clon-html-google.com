@@ -1,0 +1,218 @@
+*{
+    box-sizing:border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.google{
+    position: absolute;
+    bottom: 495px;
+    left: 576px;
+}
+.pt{
+    height: 50px;
+    width: 580px;
+    border-radius: 25px;
+    padding: 0px 65px;
+    border: 1px solid rgb(224, 222, 222);
+}
+.pt:hover{
+    box-shadow: 0px 2px 2px 2px rgb(226, 224, 224);
+}
+.bus{
+    position: absolute;
+    bottom: 420px;
+    left: 420px;  
+}
+.listado{
+    position: absolute;
+    top: 15px;
+    left: 1185px;
+    text-align: right;
+}
+.a{
+    position: absolute;
+    display: inline-block;
+    left: 30px;
+}
+.a a{
+    text-decoration: none;
+    color: black;
+}
+.a:hover{
+    text-decoration: underline;
+}
+
+
+.e{
+    position: absolute;
+    display: inline-block;
+    left: 80px;
+}
+.e a{
+    text-decoration: none;
+    color: black;
+}
+.e:hover{
+    text-decoration: underline;
+}
+.i{
+    position: absolute;
+    display: inline-block;
+    left: 160px;
+}
+.o{
+    position: absolute;
+    display: inline-block;
+    left: 200px;
+    top: -7px;
+}
+#bor{
+    border-radius: 100%;
+}
+.lupe{
+    position: absolute;
+    right: 537px;
+    bottom: 15px;
+}
+.camarita{
+    position: absolute;
+    right: 15px;
+    bottom: 13px;
+}
+.microfonito{
+    position:absolute;
+    right: 40px;
+    bottom: 9px;
+}
+.box{
+    position: absolute;
+    bottom: 280px;
+    right: 550px;
+}
+.bex{
+    margin: 50px;
+    border: 3px;
+    padding: 13px 16px;
+
+}
+#bexbix{
+    background-color:  #f8f9fa;;
+}
+.bex:hover{
+    box-shadow: 0px 1px 1px 1px rgb(235, 234, 234);
+}
+.bix{
+    border: 3px;
+    padding: 13px 16px;
+    
+}
+.bix a{
+    text-decoration: none;
+    color: black;
+}
+.bix:hover{
+    box-shadow: 0px 1px 1px 1px rgb(226, 224, 224);
+}
+.lis{
+    position: absolute;
+    bottom: 0px;
+    width:1440px;
+    background-color: rgb(226, 224, 224);
+    border: solid rgb(226, 224, 224);
+    height: 50px;
+    padding: 10px;
+}
+#pre{
+    display: inline-block;
+    position: absolute;
+    left: 1300px;
+}
+#pre a{
+    text-decoration: none;
+    color: black;
+}
+#pre:hover {
+    text-decoration: underline;
+}
+#con{
+    position: absolute;
+    display: inline-block;
+    left: 1200px;
+}
+#con a{
+    text-decoration: none;
+   color: black;
+}
+#con:hover {
+    text-decoration: underline;
+}
+#pri{
+    position: absolute;
+    display: inline-block;
+    left: 1100px;
+}
+#pri a{
+    text-decoration: none;
+    color: black;
+}
+#pri:hover{
+    text-decoration: underline;
+}
+#com{
+    position: absolute;
+    display: inline-block;
+    left: 400px;
+}
+#com a {
+    text-decoration: none;
+    color: black;
+}
+#com:hover {
+    text-decoration: underline;
+}
+#ne{
+    position: absolute;
+    display: inline-block;
+    left: 300px;
+}
+#ne a {
+    text-decoration: none;
+    color: black;
+}
+#ne:hover{
+    text-decoration: underline;
+}
+#pu{
+    position: absolute;
+    display: inline-block;
+    left: 200px;
+}
+#pu a{
+    text-decoration: none;
+    color: black;
+}
+#pu:hover {
+    text-decoration: underline;
+}
+#sob{
+    position: absolute;
+    display: inline-block;
+    left: 50px;
+}
+#sob a {
+    text-decoration: none;
+    color: black;
+}
+#sob:hover {
+    text-decoration: underline;
+}
+.gua{
+    border:solid rgb(194, 191, 191)1px;
+    background-color: rgb(226, 224, 224);
+    position: absolute;
+    bottom: 50px;
+    width: 1440px;
+    height: 50px;
+    padding: 15px;
+}
